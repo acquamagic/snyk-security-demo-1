@@ -1,0 +1,18 @@
+# requirements.txt
+# This file intentionally pins packages to older, vulnerable versions for demonstration purposes.
+
+# PyYAML - CVE-2020-14300, etc.
+PyYAML==5.3.1
+
+# requests - SSL/TLS verification issues.
+requests==2.28.1
+
+# Flask - older versions may have various vulnerabilities.
+Flask==1.1.2
+Werkzeug==0.16.1
+
+# Jinja2 - Older versions had template injection vulnerabilities.
+Jinja2==2.11.3
+
+psycopg2-binary==2.9.10
+python-dotenv==1.0.0
