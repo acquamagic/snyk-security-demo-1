@@ -1,5 +1,7 @@
-# FastMCP Demo
+# Snyk Demo to showcase how MCP server works with the MCP Clients
 
-# test
+# Run the prompts
+
+# Verify 
 
 # Done
